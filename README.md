@@ -2,7 +2,7 @@
 
 ## Description
 
-In this repo I'm sharing my solutions to CoderByte Javascript challenges.
+In this repo I'm sharing my solutions to CoderByte JavaScript challenges.
 
 ## License
 
